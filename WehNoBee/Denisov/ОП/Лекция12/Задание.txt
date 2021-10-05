@@ -1,0 +1,14 @@
+Дербышева Татьяна Николаевна, МФТИ
+4  Символы. Структуры. Команды препроцессора
+4.1  Видео и презентация
+Лекция 3. Символы, ASCII-код. Структуры. Препроцессор.
+https://www.youtube.com/watch?v=YFX_AhXu1iE&feature=youtu.be
+Презентация https://stepik.org/media/attachments/lesson/256461/c2019_3.pdf
+4.2  Работа с символами
+Теория
+https://stepik.org/lesson/250833/step/1?unit=237768
+https://stepik.org/lesson/250833/step/2?unit=237768
+Тесты
+https://stepik.org/lesson/250833/step/3?unit=237768
+https://stepik.org/lesson/250833/step/4?unit=237768
+https://stepik.org/lesson/250833/step/5?unit=237768
