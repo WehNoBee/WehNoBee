@@ -1,0 +1,29 @@
+	Задача 1
+push  $hello
+call  puts
+add $4, %esp
+	Задача 2
+add %edx, %eax
+jc if_overflow
+mov $1, %eax
+jmp return
+if_overflow:
+    mov $0, %eax
+return:
+	Задача 3
+power:
+    push %ebx
+    mov $1, %ebx
+    
+loop:
+    test %edx,%edx
+    jz recovery
+    imul %eax,%ebx
+    dec %edx
+    jnz loop
+
+recovery:
+    mov %ebx,%eax
+    pop %ebx
+
+ret
